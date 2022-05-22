@@ -1,22 +1,6 @@
-<h2 align="center">Telegram Streamer Bot </h2>
-<p>
-Telegram bot for stream music or video on telegram, 
-powered by <a href="https://github.com/pytgcalls/pytgcalls">PyTgCalls</a>
-and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
+<p align='left'>
+ <a href="https://www.supun.ml/deploy.html"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"></a></br></br>
 </p>
-
-<div align="center">
-    <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a> <br /> 
-    <a href="https://deepsource.io/gh/DoellBarr/solidmusic/?ref=repository-badge"><img src="https://static.deepsource.io/deepsource-badge-light-mini.svg" alt="DeepSource"></a><br> 
-    <a href="https://www.codacy.com/gh/DoellBarr/solidmusic/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DoellBarr/solidmusic&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/63ed7098eee74e45956a3c4d0512078b"/></a>
-    <a href="https://github.com/doellbarr/solidmusic"><img src="https://www.codefactor.io/repository/github/doellbarr/solidmusic/badge" alt="CodeFactor" /></a> <br />
-    <a href="https://github.com/pyrogram/pyrogram"><img src="https://img.shields.io/badge/Pyrogram-1.2.9-blue?logo=github"></a>
-    <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.9.7-blue?logo=python&logoColor=yellow"></a>
-    <a href="https://github.com/pytgcalls/pytgcalls"><img src="https://img.shields.io/badge/PyTgCalls-0.8.1-blue?logo=github"></a> <br> <br>
-    <a href="https://github.com/DoellBarr/solidmusic"><img src="https://img.shields.io/github/repo-size/doellbarr/solidmusic?logo=github"></a> <br>
-    <a href="https://github.com/DoellBarr/solidmusic"><img src="https://img.shields.io/github/forks/DoellBarr/solidmusic?logo=github"></a>
-    <a href="https://github.com/DoellBarr/solidmusic"><img src="https://img.shields.io/github/stars/DoellBarr/solidmusic?logo=github"></a>
-</div>
 
 
 <h3>Features</h3> 
