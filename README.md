@@ -1,6 +1,4 @@
-<p align='left'>
- <a href="https://www.supun.ml/deploy.html"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"></a></br></br>
-</p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pulsar8806/Max)
 
 
 <h3>Features</h3> 
