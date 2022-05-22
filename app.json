@@ -1,7 +1,7 @@
 {
   "name": "solid music repo",
   "description": "Open Source bot to stream media trough Telegram Voice Chat",
-  "repository": "https://github.com/DoellBarr/solidmusic",
+  "repository": "https://github.com/Pulsar8806/Max",
   "stack": "container",
   "env": {
     "API_ID": {
