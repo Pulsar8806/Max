@@ -33,10 +33,6 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
     <a href="https://t.me/solidprojects_chat"><img alt="SolidProject Support" src="https://img.shields.io/badge/SolidProject-Support-blue.svg?logo=telegram"></a> <br/>
 </ul>
 
-<h3>Deploy to Heroku </h3>
-<div>
-    <a href="https://dashboard.heroku.com/new?button-url=https://github.com/Pulsar8806/MaxTemplate&template=https://github.com/Pulsar8806/Max"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
-</div>
 
 ### Deploy to VPS
 ```
