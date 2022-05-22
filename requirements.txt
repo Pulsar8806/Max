@@ -1,6 +1,6 @@
-py-tgcalls
-pyrogram
-git+https://github.com/yt-dlp/yt-dlp@master
+py-tgcalls==0.9.0 
+pyrogram==1.4.12 
+yt-dlp 
 bs4
 beautifulsoup4
 requests
